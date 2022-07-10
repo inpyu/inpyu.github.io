@@ -18,7 +18,7 @@ url: https://inpyu.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  "ko-KR"
+lang:                  ko-KR
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Hello Security
