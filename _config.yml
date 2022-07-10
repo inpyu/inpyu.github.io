@@ -3,14 +3,14 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url: 'https://inpyu.github.io/'
+url: 'https://inpyu.github.io'
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 # baseurl -> 예기치 못한 문제 발생 시 연결하는 주소
-#baseurl:               '/hydejack-starter-kit'
+#baseurl:               'https://inpyu.github.io'
 
 
 # General settings
@@ -18,7 +18,7 @@ url: 'https://inpyu.github.io/'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  "ko-KR"
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Hello Security
@@ -46,7 +46,7 @@ author:
   name:                <firstname> <lastname>
   email:               dayeon620@kakao.com
   # # Used by `jekyll-seo-tag`:
-  twitter:             byul_i0
+  twitter:             "@byul_i0"
 
 # Add links to the sidebar.
 menu:
@@ -68,7 +68,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
