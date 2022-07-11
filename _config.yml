@@ -317,6 +317,7 @@ exclude:
 include:
   - .well-known
   - LICENSE.md
+  - .nojekyll
 
 
 # Plugins
