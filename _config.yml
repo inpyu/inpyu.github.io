@@ -26,14 +26,13 @@ title:                 Hello Security!
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  보안하고 개발하는 사람
 
 # A shorter description for the sidebar.
 tagline:               Security Developer
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Security, Computer Science, Developer, Researcher]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -50,12 +49,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             security
+    url:               /security/
+  - title:             Computer Science
+    url:               /CS/
+  - title:             Algoritm
+    url:               /Algoritm/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
