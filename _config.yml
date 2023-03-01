@@ -315,6 +315,7 @@ exclude:
   - Gemfile.lock
 include:
   - .well-known
+  - .nojekyll
   - LICENSE.md
 
 
