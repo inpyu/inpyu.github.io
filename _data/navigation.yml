@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://inpyu.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/inpyu
 
   # - title: "Projects"
   #   url: /projects/
@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "Algorithm"
+    url: /categories/Algorithm/
+  - title: "Language"
+    url: /categories/Language/
+  - title: "DevOps"
+    url: /categories/DevOps/
+  - title: "BigData"
+    url: /categories/BigData/
