@@ -22,6 +22,10 @@ categories:
     url: /categories/Algorithm/
   - title: "Language"
     url: /categories/Language/
+  - title: "OS"
+    url: /categories/OS/
+  - title: "Network"
+    url: /categories/Network/
   - title: "DevOps"
     url: /categories/DevOps/
   - title: "BigData"
