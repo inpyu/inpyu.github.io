@@ -1,6 +1,6 @@
 ---
 title: "Terraform on Naver Cloud - Migrating NCP Infrastructure to Terraform"
-excerpt: "We will go over how to set up Terraform, configure providers, and define resources such as VPCs, subnets, NAT gateways, and load balancers. This migration will make managing and scaling our infrastructure easier and more automated"
+excerpt: "Deploying a Load Balancer on Ncloud with Terraform: A Step-by-Step Guide 🚀"
 
 categories:
   - Terraform
@@ -478,7 +478,7 @@ When using environment variables in Terraform, you must declare them within a va
             "fingerprint": "6a:65:09:fb:ca:38:8a:9f:c5:69:ec:8f:76:d7:3b:5b",
             "id": "osscakey",
             "key_name": "osscakey",
-            "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAslmTFcZ1WlAAKnD91DVxZunqKzYFXV6Rrb0L1DpIysKfla5R\nSizExrvducJTqVX6Bc6THTGl61aFWtAL2vr+4VFzaAGiRCOYTDkFIUrhNKaKxb9N\nR7lqnz5bR3hnM5zZwCdFUwFTHbC0V6rF7dnn2QwwCLNRSRuTpHrPabvT3+TikJAz\nQ2EQXaKC2iIZPziRyQbWfhgtRimFI3IC6/FyuwYc5cEoXw81rfAfDUHmml99WlzX\n3smHah7/4KiNy8AQoUX3A0RrfMC4C0e5rOrsTC/KuZzSVJdbm11+is82wmO00zCJ\nnWLwnVABTQElhFF1EBAYT1hPuTQhY56Al+PyXwIDAQABAoIBAFoXN15LhqIdQUgv\nFXkpmeQjit9TBXi5uZrqoNwOqRCLKXPBv1xZqvi8k28vQ3WJcaeXRub7WlW7udc6\nupJeMXv92e8SzDXhSSBPuVCs83/WFMl5Lf9qIPrZ0+ARaQhAVhpje/hG9gZMaXzT\nTfItHZmdN3JdqlTksjrmsnk1oPw6V5JgjU7t6nl3ZGwxtunmeaLNAgUi6hCLtOCU\n6KSFMdW0UKh9//CA5Zkr2zxAWVR9cIcVNPkHeOluhhNjFubSbtK37SQPPe1qPveq\ncwG+zngh+lmcrG49EeZGcWAXqEXCCIi2aPT4QjwLrQxKne6IaXTeYz/T8AXh7mQf\nz/5uV1kCgYEA9Bd7NfV3b7/p2ZkL2cpbMP/tk8dmvYRkh43fY62AH5OkpGpryrL5\n7RqGPTqvwSZB7aebS5sDNI3+9/tIjOUHW2kf1ny8yT1Y/qNkwPQRDY+5ETI+SoGa\nIbmVWvC2Y2NwnnIx9lKwWqGsz/EXIOkuxnXfLP3nGUgIuqzK1EgS8YsCgYEAuw0H\nOiq13BpW1QqhWQRW2+B4cHvmXATQ7U/WpbKX2QUjU19rim0/DGms3Knv9U02ciWD\n8FvGPy4hQad8nP/rsbEiGWlJ2uzerXWEQMDRRPN5AJEotXEQDA2/soa7vbciTXxq\nfdRxfvGvkpQE+TDjuGPcRfBsRb879o/9g+mxNP0CgYANRx23sLOfi5P/9zhSz5Qo\nVTOqP0WSd5o0WX5WYMDAdvqUywk0DIpV4IR+3itjWV5qvBxRf4wsFrFQ8gVfTLIa\nwdwugbiPRdwKdf7sFBq9Xx0VF2OWD/i/buX1/XQecfFVXSbknFjlhTfuU9ILQ0P9\nHbpXKzSgBnAbH30lEQqewwKBgFsBtbh5O05BimnQ6Du1PsVv62le/u9acIRlyduI\njxTJySwxStNo37ocWDxsehFxZcIXup/hJw1qVkfpQ1nnsjccJakTbxmTEax3dsdC\niQ7xHrhF5/aPce1Lay9jGkjtp0Tn+bALAsVutautVNYhEUqPW4azuRoeNwB5gjEC\nLHPJAoGBALqHHN6xFmvnNMgFyXZbuzDALmBKo2AJFOrIbAQopKePzvADosMSIIsI\n8eYOVrjUMyFpw3XoOPj9AfkxZjanuGwDYGxj624Na7nFU8xGDZR5rGkBHlshUKek\nfDOpNhGiKKkM/JMe+wSElTqN5lq7C5s4dubkaqIOXIzDvGupEvOj\n-----END RSA PRIVATE KEY-----"
+            "private_key": "-----BEGIN RSA PRIVATE KEY----END RSA PRIVATE KEY-----"
           },
           "sensitive_attributes": [
             [
