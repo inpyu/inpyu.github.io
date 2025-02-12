@@ -1,5 +1,5 @@
 ---
-title: "Terraform on Naver Cloud - Open Source Contribution Academy 2024"
+title: "Terraform on Naver Cloud - What is Terraform?"
 excerpt: "Terraform is a powerful Infrastructure as Code tool that enables efficient, automated, and consistent infrastructure management, reducing costs, speeding up deployment, minimizing errors, and ensuring consistency across environments."
 
 categories:
