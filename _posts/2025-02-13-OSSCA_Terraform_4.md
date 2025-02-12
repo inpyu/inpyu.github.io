@@ -1,6 +1,6 @@
 ---
 title: "Terraform on Naver Cloud - Terraform Providers: A Guide to Understanding and Development"
-excerpt: "We will go over how to set up Terraform, configure providers, and define resources such as VPCs, subnets, NAT gateways, and load balancers. This migration will make managing and scaling our infrastructure easier and more automated"
+excerpt: "Understand Terraform Provider principles and Development Steps"
 
 categories:
   - Terraform
