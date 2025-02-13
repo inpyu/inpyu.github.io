@@ -1,6 +1,6 @@
 ---
-title: "Terraform on Naver Cloud - Analyzing of the Go API(1)"
-excerpt: "Analysis about Terraform Provider Go API(1)"
+title: "Terraform on Naver Cloud - Analyzing of the Go API"
+excerpt: "Analysis about Terraform Provider Go API"
 
 categories:
   - Terraform
