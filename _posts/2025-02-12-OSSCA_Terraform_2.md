@@ -11,6 +11,7 @@ permalink: /Terraform/OSSCA_2/
 
 toc: true
 toc_sticky: true
+published: true
 
 date: 2025-02-12
 last_modified_at: 2025-02-12

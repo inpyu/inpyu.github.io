@@ -282,3 +282,4 @@ defaults:
       related: true
       sidebar:
         nav: "categories"
+future: true
