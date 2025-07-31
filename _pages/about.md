@@ -7,7 +7,7 @@ comments: false
 
 **📬 Contact Information**  
 - **Email:** dayeon620@cau.ac.kr  
-- **LinkedIn:** [Jung Dayeon LinkedIn Profile](https://www.linkedin.com/in/%EB%8B%A4%EC%97%B0-%EC%A0%95-19b219256/)  
+- **LinkedIn:** [Jung Dayeon LinkedIn Profile](https://www.linkedin.com/in/dayeon-jung-19b219256/)  
 - **GitHub:** [GitHub URL](https://github.com/inpyu)  
 
 ---
